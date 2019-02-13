@@ -1,5 +1,5 @@
 {
-  "name": "vue",
+  "name": "vue-1-ac-legacy",
   "version": "1.0.28",
   "author": "Evan You <yyx990803@gmail.com>",
   "license": "MIT",
@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/vuejs/vue.git"
+    "url": "https://github.com/pepesenaris/vue.git"
   },
   "bugs": "https://github.com/vuejs/vue/issues",
   "homepage": "http://vuejs.org",
